@@ -1,0 +1,11 @@
+#carouselExampleIndicators { 
+  background-color: black;
+}
+
+.carousel-caption {
+  position: relative;
+  left: 0;
+  top: 0;
+  text-transform: uppercase;
+}
+
