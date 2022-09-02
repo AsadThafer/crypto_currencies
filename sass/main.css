@@ -1,0 +1,68 @@
+#CryptoSearch {
+  background-image: url("https://www.w3schools.com/css/searchicon.png");
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 80%;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  margin-top: 10px;
+  margin-left: 10%;
+  border-radius: 10px;
+}
+
+#CryptoTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  overflow-x: auto;
+}
+
+#CryptoTable th, #CryptoTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#CryptoTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#CryptoTable tr.header, #CryptoTable tr:hover {
+  background-color: #f1f1f1;
+}
+
+#carouselExampleIndicators {
+  background-color: #ddd;
+}
+
+.carousel-caption {
+  position: relative;
+  left: 0;
+  top: 0;
+  text-transform: uppercase;
+}
+
+body #carouselExampleIndicators {
+  background-color: black;
+}
+
+@media (max-width: 767px) {
+  .media {
+    font-size: 12px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .media {
+    font-size: 14px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .media {
+    font-size: 16px;
+  }
+}
+@media (min-width: 1200px) {
+  .media {
+    font-size: 18px;
+  }
+}/*# sourceMappingURL=main.css.map */

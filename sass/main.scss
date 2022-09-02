@@ -1,0 +1,32 @@
+//import Mixins
+@use 'helpers/_mixins.scss' as *;
+
+//import Variabls
+@use 'variables/_colors.scss' as *;
+
+//import Pages
+@use 'pages/_tables.scss' as *;
+@use 'pages/_carousel.scss' as *;
+
+//import Functions
+@use 'helpers/_functions.scss' as *;
+
+
+.media {
+    @include breakpoints(mobile) {
+        font-size: 12px;
+    }
+
+    @include breakpoints(small) {
+        font-size: 14px;
+    }
+
+    @include breakpoints(medium) {
+        font-size: 16px;
+    }
+
+    @include breakpoints(large) {
+        font-size: 18px;
+    }
+}
+

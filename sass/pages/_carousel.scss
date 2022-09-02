@@ -1,0 +1,15 @@
+//import Pages
+@use '../variables/_colors.scss' as *;
+
+
+#carouselExampleIndicators { 
+    background-color: #{$main};
+  }
+  
+  .carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+    text-transform: uppercase;
+  }
+  
