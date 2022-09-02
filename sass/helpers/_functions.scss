@@ -1,0 +1,36 @@
+//import Variabls
+@use '../variables/_colors.scss' as *;
+
+
+
+
+//Control Flow => If and Else
+$theme: 'custom';
+
+body {
+    @if $theme =='light' {
+        background-color: white;
+        color: black;
+        .bg-dark{
+            background-color:white !important;
+        }
+        .text-white{
+            color:black !important;
+        }
+        .carousel-caption{
+            color:black !important;
+        }
+        .navbar
+        {
+            border-bottom:solid black;
+        }
+
+    }
+
+    @else if $theme =='custom' {
+        //the default
+        #carouselExampleIndicators { 
+            background-color: black;
+          }
+    }
+}
