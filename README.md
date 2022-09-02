@@ -1,5 +1,5 @@
-## crypto_currenciesus
-# Task 2
+# crypto_currenciesus
+### Task 2
 
 Please use this API to get a list of crypto currencies and do the following:
 
@@ -12,6 +12,8 @@ Trend Page: should have pie chart for currency name with current_price data
 
 No specific UI for this, do your best to have suitable style.
 
-# Task 3 
+
 # incorporate SASS
+### Task 3 
+
 You should incorporate SASS (with Bootstrap) in your existing project (cryptocurrencies), your project should have many SASS files (split them per component or per page - ex: _tables.scss) compiled into one CSS file. Feel free to use any package to compile your SASS files.
