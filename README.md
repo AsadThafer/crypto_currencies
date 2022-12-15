@@ -42,7 +42,7 @@ Clone the repository:
 
 Run index.html using Live Server.
 
-## Netlify Deployment: 
+## Netlify Deployment
 
 <a href="https://asad-cryptocurrency.netlify.app">Asad  Products </a>
 
