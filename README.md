@@ -1,4 +1,4 @@
-# Crypto Currencies jQuery & Javascript Project
+# Crypto Currencies jQuery & JavaScript Project
 
 This project is a simple page to share Crypto Currencies info written in JavaScript.
 
