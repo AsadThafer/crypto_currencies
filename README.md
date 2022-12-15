@@ -1,13 +1,3 @@
-
-
-
-
- 
-
-
-No specific UI for this, do your best to have suitable style.
-
-
 # Crypto Currencies jQuery & Javascript Project
 
 This project is a simple page to share Crypto Currencies info written in JavaScript.
