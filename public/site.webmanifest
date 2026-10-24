@@ -1,0 +1,15 @@
+{
+  "name": "CoinScope - Crypto Market Dashboard",
+  "short_name": "CoinScope",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
